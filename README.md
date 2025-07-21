@@ -1,4 +1,4 @@
-# Fake Login Honeypot
+# Login Honeypot
 
 This is a simple Flask-based honeypot that simulates a login page and logs all login attempts.
 
